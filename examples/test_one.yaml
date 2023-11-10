@@ -1,0 +1,11 @@
+initialValue: 10
+steps:
+  plusFive:
+    type: add
+    value: 5
+  minusOne:
+    type: sub
+    value: 1
+  half:
+    type: div
+    value: 2

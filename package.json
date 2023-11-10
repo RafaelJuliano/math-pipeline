@@ -1,0 +1,31 @@
+{
+  "name": "math-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "execute": "ts-node src/main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelJuliano/math-pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaelJuliano/math-pipeline/issues"
+  },
+  "homepage": "https://github.com/RafaelJuliano/math-pipeline#readme",
+  "dependencies": {
+    "inversify": "^6.0.2",
+    "reflect-metadata": "^0.1.13",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2",
+    "winston": "^3.11.0",
+    "yaml": "^2.3.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.9.0"
+  }
+}
